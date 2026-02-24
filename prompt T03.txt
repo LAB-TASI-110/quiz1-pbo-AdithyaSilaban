@@ -1,0 +1,17 @@
+Saya memiliki tugas untuk membuat sebuah sistem yang mendukung operasional sehari hari loundry di del. jadi sistem operasional nya itu senin sore itu pengambilan loundry dari asrama louis pasteur dan archimedes, kemudian diantar selasa sore, selasa sore itu pengambilan loundry dari asrama simon laplace, ada lovelace, dan nikola tesla, kemudian pengantaran loundrynya hari rabu sore, setelah itu rabu sore pengambilan  loudnry dari asrama max plank, dan pengantarannya hari kamis sore, setelah itu jumat sore pengambilan loundry dari asrama marie curie dan diantar kembali hari sabtu sore, buatkan sistem yang mendukung operasional sehari harinya loundry di kampus del. Menggunakan bahasa pemogramaan bahasa java. maka akan ada inputan dan output
+
+jadwal nya sudah tetap tidak bisa diubah ubah, mungkin sistem yang cocok untuk membantu itu adalah sistem mengecek apakah loundry kita sesuai barangnya sampai dia datang kembali ke kita, untuk mengetahui apakah ada barang yang hilang atau tertukar
+
+nah ini baru cocok, buat versi oop
+
+tidak perlu menggunakan oop
+
+buat contoh inputan dan outputnya
+
+jadi apa kelebihan dari sistem tersebut
+
+apa kekurangannya
+
+kembangkan code nya untuk memperbaiki kekurangan yang ada
+
+sistemnya buat untuk mahasiswa yang menginput apa aja yang ingin mereka input

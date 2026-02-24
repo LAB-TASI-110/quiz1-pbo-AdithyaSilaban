@@ -1,0 +1,22 @@
+ChatGPT
+Saya memiliki soal untuk memecahkan masalah dalam code program bahasa java untuk membuat sistem transaksi yang transparan. Jadi ada 2 tokoh, ada ucok dan butet mereka akan memesan sebuah pesanan dengan perbandingan, apabila si butet memesan 1, maka otomatis ucok memesan 2, apabila butet memesan 2 maka otomatis ucok memesan 4, begitu seterusnya. Mereka memiliki bebrapa menu, dan kupon diskon. 
+apabila total dari belanjaan mereka adalah 100.000 maka mereka mendapatkan diskon 5%, kemudian apabila belanja 200.000 mereka mendapatkan 10%, 300.000 15%, 400.000 20%, 500.000 25%. Jadi inputannya nanti mereka akan memasukkan kode makanan kemudian akan dimasukkan inputan dari porsi butet. Nah output nya akan mengeluarkan sistem seperti gambar terakhir yang saya berikan. Jadi apabila butet memesan 2 nasi goreng, maka otomatis total dari pesanan mereka akan menjadi 6 karena ucok memesan 4 nasi goreng. Kemudian total harga akan berubah apabila harganya memenuhi persyaratan diskon tadi. Buatkan code untuk bahasa java
+
+apakah code nya sudah bisa menginput beberapa menu makanan, contohnya mereka ingin memesan banyak menu
+
+public class Driver1 {
+
+}
+apa maksud ini
+
+buatkan code yang sudah bisa dijalankan
+At line:1 char:8
++ cd bin && java Driver1
++        ~~
+The token '&&' is not a valid statement separator in this version.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvalidEndOfLine
+
+error: file not found: Driver1.java
+Usage: javac <options> <source files>
+use --help for a list of possible options

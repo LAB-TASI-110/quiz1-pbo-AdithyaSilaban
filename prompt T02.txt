@@ -1,0 +1,37 @@
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
+
+
+saya memiliki permasalahan yang akan diselesaikan menggunakan code program bahasa java.  
+
+jadi dari gambar tadi ada alurnya, seperti pertama diurutkan dari nilai paling rendah yang dimiliki oleh wanita, jadi Yohana memiliki nilai 75, setelah itu diurutkan dengan nilai paling rendah yang dimiliki oleh pria yaitu Julius yang memiliki nilai 65, kemudian setelah itu, diurutkan menjadi nilai yang lebih tinggi dari pada nilai wanita sebelumnya menjadi Indah yang memiliki nilai 80, kemudian diurutkan lagi berdasarkan nilai yang lebih tinggi dari pada nilai pria yang sebelumnya yaitu wilson memiliki nilai 70
+
+lebih baik menggunakan array
+
+buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+untuk kelompok yang diminta itu maksudnya tadi yang saya buat, bahwa jadi dari gambar tadi ada alurnya, seperti pertama diurutkan dari nilai paling rendah yang dimiliki oleh wanita, jadi Yohana memiliki nilai 75, setelah itu diurutkan dengan nilai paling rendah yang dimiliki oleh pria yaitu Julius yang memiliki nilai 65, kemudian setelah itu, diurutkan menjadi nilai yang lebih tinggi dari pada nilai wanita sebelumnya menjadi Indah yang memiliki nilai 80, kemudian diurutkan lagi berdasarkan nilai yang lebih tinggi dari pada nilai pria yang sebelumnya yaitu wilson memiliki nilai 70
+
+jadi kelompoknya adalah yang sepasang, jadi yohana dan indah adalah sepasang karena mereka wanita, dan julius dan wilson pria. 
+
+itu untuk pembagian kelompok berdasarkan pria atau wanita, kemudian buat lagi pembagian kelompok berdasarkan nilai yang ganjil dan genap, karena ada mereka yang memiliki nilai ganjil dan genap,
+
+buat memakai array
+kelompok kan memakai kode angka
+
+bukan, maksudnya nanti ada penjumlahan antara 2 pasangan seperti pasangan yang berjenis wanita atau pria, kemudian ada penjumlahan antara yang memiliki nilai ganjil dan genap
+genap ditambah yg genap, ganjil ditambah ganjil, kemudian wanita ditambah wanita dan pria ditambah pria, gunakan array
+
+jadi contoh inputannya program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+misalnya saya ingin menjumlahkan total nilai yang kelompok nya memiliki nilai ganjil, atau genap, atau wanita, atau pria, pisahkan menjadi 4 kelompok
+
+
+kenapa 155
+
+coba deklarasikan pada inputan agar tidak bingung
+coba buat hanya input kelompok kemudian langsung output hasil, tidak perlu input nilai yohana, julius, dst
+coba buat hanya input kelompok kemudian langsung output hasil, tidak perlu input nilai yohana, julius, dst
